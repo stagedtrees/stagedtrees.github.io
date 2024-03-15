@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 title: Staged Event Tree 
 weight: 1
 ---
@@ -9,4 +9,6 @@ weight: 1
 **Under construction**
 
 ## News
+
+{% include smallnews.html %}
 
