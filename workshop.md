@@ -9,7 +9,7 @@ weight: 2
 
 #### 21-23 October 2024, University of Genoa
 
-{% include image.html width="300px" file="images/gegatto.jpeg" %}
+{% include image.html width="300px" file="images/gegatto" %}
 
 The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. Topics related to the workshop include, but are not limited to:
 
@@ -34,6 +34,8 @@ To be announced
 
 ### Organizing Committee
 
+ - [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/)
+
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
  
  - [Monia Lupparelli](https://scholar.google.com/citations?user=acIiN2EAAAAJ&hl=it) (University of Florence)
@@ -44,5 +46,6 @@ To be announced
  
  - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
  
+ - [Rachel Wilkerson](rachel)
  
 
