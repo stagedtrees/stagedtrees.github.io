@@ -4,8 +4,9 @@ title: Workshop
 weight: 2
 ---
 
-{% include image.html width="300px" file="images/stagedtrees.png" %}
 
-**Under construction**
+# 1st Workshop on Asymmetric Modeling of Categorical Data
 
+## 21-23 October 2024, University of Genoa
 
+{% include image.html width="300px" file="images/genova1.jpeg" %}
