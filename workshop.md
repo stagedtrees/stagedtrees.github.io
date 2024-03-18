@@ -46,6 +46,6 @@ To be announced
  
  - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
  
- - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) ()
+ - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) (Tesserwell, LLC)
  
 
