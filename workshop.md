@@ -5,14 +5,14 @@ weight: 2
 ---
 
 
-# 1st Workshop on Asymmetric Modeling of Categorical Data
+# 1st trees4cat Workshop
 
 ## 21-23 October 2024, University of Genoa
 
 {% include image.html width="300px" file="images/genova1.jpeg" %}
 
 
-The **1st Workshop on Asymmetric Modeling of Categorical Data** aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. Topics related to the workshop include, but are not limited to:
+The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. Topics related to the workshop include, but are not limited to:
 
  - contingency tables
  - staged trees
