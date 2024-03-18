@@ -7,7 +7,7 @@ weight: 2
 
 # 1st trees4cat Workshop
 
-## 21-23 October 2024, University of Genoa
+#### 21-23 October 2024, University of Genoa
 
 {% include image.html width="300px" file="images/genova1.jpeg" %}
 {% include image.html width="300px" file="images/gatto.jpeg" %}
