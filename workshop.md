@@ -35,15 +35,15 @@ To be announced
 
 ### Organizing Committee
 
- - [Manuele Leonelli](manueleleonelli.github.io) (IE University)
+ - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
  
- - Monia Lupparelli (University of Florence)
+ - [Monia Lupparelli](https://scholar.google.com/citations?user=acIiN2EAAAAJ&hl=it) (University of Florence)
  
- - Francesco Porro (University of Genoa)
+ - [Francesco Porro](https://rubrica.unige.it/personale/UkJAU1lp) (University of Genoa)
  
- - Fabio Rapallo (University of Genoa)
+ - [Fabio Rapallo](https://rubrica.unige.it/personale/UkNHX1lh) (University of Genoa)
  
- - Eva Riccomagno (University of Genoa)
+ - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
  
  
 
