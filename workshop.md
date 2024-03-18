@@ -9,8 +9,7 @@ weight: 2
 
 #### 21-23 October 2024, University of Genoa
 
-{% include image.html width="300px" file="images/genova1.jpeg" %}
-{% include image.html width="300px" file="images/gatto.jpeg" %}
+{% include image.html width="300px" file="images/gegatto.jpeg" %}
 
 The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. Topics related to the workshop include, but are not limited to:
 
