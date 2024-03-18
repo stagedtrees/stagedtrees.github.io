@@ -34,7 +34,7 @@ To be announced
 
 ### Organizing Committee
 
- - [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/)
+ - [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/) (University of Warwick)
 
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
  
@@ -46,6 +46,6 @@ To be announced
  
  - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
  
- - [Rachel Wilkerson](rachel)
+ - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) ()
  
 
