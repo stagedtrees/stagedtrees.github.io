@@ -66,6 +66,10 @@ timezone: Europe/Madrid
 ## 
 future: true
 collections:
+  events:
+    output: true
+    menu: true
+    menu_label: "Events"
   talks:
     output: true
   news:
