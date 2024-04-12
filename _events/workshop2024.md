@@ -68,5 +68,25 @@ The programme is still being finalized but the skeleton is as follows:
  - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
  
  - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) (Tesserwell, LLC)
+
+### List of Participants
+
+ - Jane Hutton (University of Warwick)
+ - Manuele Leonelli (IE University)
+ - Monia Lupparelli (University of Florence)
+ - Francesco Porro (University of Genoa)
+ - Fabio Rapallo (University of Genoa)
+ - Eva Riccomagno (University of Genoa)
+ - Rachel Wilkerson (Tesserwell, LLC)
+ - Jim Smith (University of Warwick)
+ - Conor Hughes (University of Warwick)
+ - Muhammad Shoaib (University of Genoa)
+ - Jack Carter (University of Genoa)
+ - Gareth Walley (Pinpoint Data Science)
+ - Aditi Shenvi (Habitat Energy)
+ - Liam Solus (KTH University)
+ - Eliana Duarte (University of Porto)
+ - Orlando Marigliano (University of Genoa)
+
  
 
