@@ -34,14 +34,20 @@ The workshop will take place either at the University of Genoa or in a nearby to
  - [Liam Solus](https://people.kth.se/~solus)
 
 ### Contributed Talks and Posters
+To be announced.
 
 ### Travel and Accommodation 
+More specific details will be given once the venue of the workshop is confirmed. 
+
+Genova can be easily reached by train or flight. The closest airport is in Genova, but it does not have a large number of connections. Other nearby airports are Milan Malpensa, Milan Linate, Pisa, Turin, Nice. Genova can be reached from those airports either by train or by car.
+
+We are currently in contact with local hotels to arrange special deals and possibly have most participants in the same structure. For more details, please contact [the organizing committee](mailto:manuele.leonelli@ie.edu).
 
 ### Programme 
 
 The programme is still being finalized but the skeleton is as follows:
 
- - Monday 21st of October (afternoon): Tutorials on *algebraic statistics of tree models* (Eliana Duarte) and *software for staged tree models* (Manuele Leonelli)
+ - Monday 21st of October (afternoon): Tutorials on *"Algebraic statistics of tree models"* (Eliana Duarte) and *"Software for staged tree models"* (Manuele Leonelli)
 
  -  Tuesday 22nd of October (full day): Invited and contributed talks
 
