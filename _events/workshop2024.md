@@ -20,7 +20,7 @@ The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing tog
  - software implementations
  - algebraic statistics
 
-This meeting builds up on past meetings on the topic organized in 2019 at the University of Glasgow and 2020 Online.
+This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
  
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
