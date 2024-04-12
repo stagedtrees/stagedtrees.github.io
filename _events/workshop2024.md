@@ -39,7 +39,13 @@ The workshop will take place either at the University of Genoa or in a nearby to
 
 ### Programme 
 
-To be announced
+The programme is still being finalized but the skeleton is as follows:
+
+ - Monday 21st of October (afternoon): Tutorials on *algebraic statistics of tree models* (Eliana Duarte) and *software for staged tree models* (Manuele Leonelli)
+
+ -  Tuesday 22nd of October (full day): Invited and contributed talks
+
+ -  Wednesday 23rd of October (morning): Invited and contributed talks
 
 ### Organizing Committee
 
