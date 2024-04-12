@@ -23,8 +23,13 @@ The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing tog
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
 ### Location
+The workshop will take place either at the University of Genoa or in a nearby town close to it. Details are being finalized and will be communicated shortly.
 
 ### Confirmed Speakers
+ - (Eliana Duarte)[https://emduart2.github.io]
+ - (Manuele Leonelli)[https://manueleleonelli.github.io]
+ - (Jim Smith)[https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/]
+ - (Liam Solus)[https://people.kth.se/~solus]
 
 ### Contributed Talks and Posters
 
