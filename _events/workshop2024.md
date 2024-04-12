@@ -6,21 +6,21 @@ location: Genoa
 ---
 
 
-# 1st trees4cat Workshop
+# Trees4cat Workshop
 
 #### 21-23 October 2024, University of Genoa
 
 {% include image.html width="300px" file="images/geg.png" %}
 
-The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. Topics related to the workshop include, but are not limited to:
+The **trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
+
+Topics related to the workshop include, but are not limited to:
 
  - contingency tables
  - staged trees
  - asymptotic theory 
  - software implementations
  - algebraic statistics
-
-This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
  
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
