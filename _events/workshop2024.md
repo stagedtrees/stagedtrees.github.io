@@ -19,6 +19,8 @@ The **1st trees4cat Workshop** (Trees for Categorical Data) aims at bringing tog
  - asymptotic theory 
  - software implementations
  - algebraic statistics
+
+This meeting builds up on past meetings on the topic organized in 2019 at the University of Glasgow and 2020 Online.
  
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
