@@ -88,5 +88,6 @@ The programme is still being finalized but the skeleton is as follows:
  - Eliana Duarte (University of Porto)
  - Orlando Marigliano (University of Genoa)
 
- 
+The event is co-financed by
 
+{% include image.html width="1000px" file="images/gnampa.png" %}
