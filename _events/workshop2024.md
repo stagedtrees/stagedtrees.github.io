@@ -32,6 +32,8 @@ The workshop will take place either at the University of Genoa or in a nearby to
  - [Manuele Leonelli](https://manueleleonelli.github.io)
  - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/)
  - [Liam Solus](https://people.kth.se/~solus)
+ - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84)
+ - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas)
 
 ### Contributed Talks and Posters
 To be announced.
