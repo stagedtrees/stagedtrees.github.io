@@ -24,9 +24,6 @@ Topics related to the workshop include, but are not limited to:
  
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
-### Location
-The workshop will take place either at the University of Genoa or in a nearby town close to it. Details are being finalized and will be communicated shortly.
-
 ### Confirmed Speakers
  - [Eliana Duarte](https://emduart2.github.io)
  - [Manuele Leonelli](https://manueleleonelli.github.io)
@@ -35,15 +32,6 @@ The workshop will take place either at the University of Genoa or in a nearby to
  - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84)
  - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas)
 
-### Contributed Talks and Posters
-To be announced.
-
-### Travel and Accommodation 
-More specific details will be given once the venue of the workshop is confirmed. 
-
-Genova can be easily reached by train or flight. The closest airport is in Genova, but it does not have a large number of connections. Other nearby airports are Milan Malpensa, Milan Linate, Pisa, Turin, Nice. Genova can be reached from those airports either by train or by car.
-
-We are currently in contact with local hotels to arrange special deals and possibly have most participants in the same structure. For more details, please contact [the organizing committee](mailto:manuele.leonelli@ie.edu).
 
 ### Programme 
 
@@ -54,6 +42,24 @@ The programme is still being finalized but the skeleton is as follows:
  -  Tuesday 22nd of October (full day): Invited and contributed talks
 
  -  Wednesday 23rd of October (morning): Invited and contributed talks
+
+
+### Contributed Talks and Posters
+To be announced.
+
+### Location and Travel 
+
+The workshop will take place either at the Dipartimento di Matematica (DIMA) of the University of Genoa. Genoa can be easily reached by train or flight. The closest airport is in Genoa Cristoforo Colombo Airport, but it does not have a large number of connections. Other nearby airports are Milan Malpensa, Milan Linate, Pisa, Turin, Nice. Genova can be reached from those airports either by train (the two main train stations are Genova Piazza Principe and Genova Brignole) or by car. 
+
+If you are planning to come to DIMA by public transport, the best choice is to take the bus 17/ or 16. If you come from the city center, you have to get out at the stop "Europa 1/Ospedale San Martino" and then take a 5 minute walk going up some stairs and going through a metal walkway. Another slightly slower but similar option from the city center is the 44 (getting out at the stop "San Martino 2/Papigliano" plus stairs and metal walkway). Bus tickets can be bought at "Tabacchi" or newspaper shops. Alternatively you can buy bus tickets on the AMT app. If you're coming by car, you just need to ring the interphone (Dipartimento di Matematica - DIMA) by the gate entrance and say you're here for the conference. After entering go straight untill you reach a big parking lot.
+
+We are currently in contact with local hotels to arrange special deals and possibly have most participants in the same structure. For more details, please contact [the organizing committee](mailto:manuele.leonelli@ie.edu).
+
+### What to Do in Genova and Liguria
+
+Some nice spots to visit in Genoa are: Passeggiata Anita Garibaldi in Nervi and the Nervi park, Boccadasse and Corso Italia, Old port, Aquarium, Belvedere Castelletto which is accessible by foot or elevator, Via Garibaldi (with museums Palazzo Bianco and Palazzo Rosso), Via San Lorenzo and Duomo of San Lorenzo, Giardini Luzzati in the evening, Piazza De Ferrari, and Villa Durazzo Pallavicini. 
+
+Famous destionations around Genoa are Portofino and Cinque Terre (i.e. the five little towns of Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore), which are great for hiking. Other cool spots for a short visit are  Camogli, Santa Margherita Ligure, Sestri Levante, Lerici and Porto Venere, all on the East of Genova.
 
 ### Organizing Committee
 
