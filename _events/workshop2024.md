@@ -93,4 +93,5 @@ The programme is still being finalized but the skeleton is as follows:
 The event is supported by
 
 {% include image.html width="1000px" file="images/gnampa.png" %}
-{% include image.html width="1000px" file="images/logo_orizzontale_COLORE.png" %}
+{% include image.html width="800px" file="images/logo_orizzontale_COLORE.png" %}
+{% include image.html width="800px" file="images/dima_eccellenza.pdf" %}
