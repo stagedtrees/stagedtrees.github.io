@@ -45,8 +45,6 @@ The programme is still being finalized but the skeleton is as follows:
 ### Contributed Talks and Posters
 To be announced.
 
-Metti info Poster e Talks
-
 ### Location and Travel 
 
 The workshop will take place at the Dipartimento di Matematica (DIMA) of the University of Genoa.
