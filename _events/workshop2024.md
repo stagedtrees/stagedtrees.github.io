@@ -5,7 +5,6 @@ date: 2024-10-21
 location: Genoa
 ---
 
-
 # Trees4cat Workshop
 
 #### 21-23 October 2024, University of Genoa
@@ -25,13 +24,13 @@ Topics related to the workshop include, but are not limited to:
 For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
 
 ### Confirmed Speakers
+
  - [Eliana Duarte](https://emduart2.github.io)
  - [Manuele Leonelli](https://manueleleonelli.github.io)
  - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/)
  - [Liam Solus](https://people.kth.se/~solus)
  - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84)
  - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas)
-
 
 ### Programme 
 
@@ -43,15 +42,27 @@ The programme is still being finalized but the skeleton is as follows:
 
  -  Wednesday 23rd of October (morning): Invited and contributed talks
 
-
 ### Contributed Talks and Posters
 To be announced.
 
+Metti info Poster e Talks
+
 ### Location and Travel 
 
-The workshop will take place either at the Dipartimento di Matematica (DIMA) of the University of Genoa. Genoa can be easily reached by train or flight. The closest airport is in Genoa Cristoforo Colombo Airport, but it does not have a large number of connections. Other nearby airports are Milan Malpensa, Milan Linate, Pisa, Turin, Nice. Genova can be reached from those airports either by train (the two main train stations are Genova Piazza Principe and Genova Brignole) or by car. 
+The workshop will take place at the Dipartimento di Matematica (DIMA) of the University of Genoa.
+Genoa can be reached either by plane or by train:
 
-If you are planning to come to DIMA by public transport, the best choice is to take the bus 17/ or 16. If you come from the city center, you have to get out at the stop "Europa 1/Ospedale San Martino" and then take a 5 minute walk going up some stairs and going through a metal walkway. Another slightly slower but similar option from the city center is the 44 (getting out at the stop "San Martino 2/Papigliano" plus stairs and metal walkway). Bus tickets can be bought at "Tabacchi" or newspaper shops. Alternatively you can buy bus tickets on the AMT app. If you're coming by car, you just need to ring the interphone (Dipartimento di Matematica - DIMA) by the gate entrance and say you're here for the conference. After entering go straight untill you reach a big parking lot.
+ - *By train*: The main train stations in Genoa are Genova Piazza Principe and Genova Brignole, with the latter being the closest to the Math Department. Not all trains to Genova arrive to Genova Brignole, as some arrive to Genova Piazza Principe only. If this is the case for your train, you can reach Genova Brignole either by a short train ride, metro or bus.
+ 
+ - *By plane*: The closest airport is the Genoa Cristoforo Colombo Airport, farther alternatives are Milano Linate, Milano Malpensa and Pisa. To reach the city center you can either take a taxi or the - not so frequent - Volabus, which also stops at the De Ferrari Square and at the Genova Brignole train station. Alternatively, you can take the Airlink service bus to the train station Genova Sestri Ponente Aeroporto (which can also by reached by a 20mins walk in the middle of nowhere) and then take a train going to Genova Brignole. The Airlink requires a bus ticket which also works for the subsequent train ride within the city (if you buy the bus ticket "integrato", costing 2.20 euro).
+ 
+
+If you are planning to come to the department by public transport, the best choice is to take the bus 17/ or 16. If you come from the city center, you have to get out at the stop "Europa 1/Ospedale San Martino" and then take a 5 minute walk going up some stairs and going through a metal walkway. Another slightly slower but similar option from the city center is the 44 (getting out at the stop "San Martino 2/Papigliano" plus stairs and metal walkway). Bus tickets can be bought at "Tabacchi" or newspaper shops. Alternatively, you can buy bus tickets on the AMT app (Android, Apple).
+
+**WARNING: Google maps occasionally doesn't show the 16 and 17 buses on its suggestions. You can find its path [here](https://www.amt.genova.it/amt/trasporto-multimodale/partenze/?linea=17&mappa=Mappa) (or use OpenStreetMap).**
+
+
+If you're coming by car and find the gate closed, you just need to ring the interphone (Dipartimento di Matematica - DIMA) by the gate entrance and say you're here for the conference. After entering go straight untill you reach a big parking lot.
 
 We are currently in contact with local hotels to arrange special deals and possibly have most participants in the same structure. For more details, please contact [the organizing committee](mailto:manuele.leonelli@ie.edu).
 
@@ -77,6 +88,7 @@ Famous destionations around Genoa are Portofino and Cinque Terre (i.e. the five 
  
  - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) (Tesserwell, LLC)
 
+
 ### List of Participants
 
  - Jane Hutton (University of Warwick)
@@ -95,7 +107,9 @@ Famous destionations around Genoa are Portofino and Cinque Terre (i.e. the five 
  - Liam Solus (KTH University)
  - Eliana Duarte (University of Porto)
  - Orlando Marigliano (University of Genoa)
-
+ - Maria Kateri (University of Aachen)
+ - Tamás Rudas (Eötvös Loránd University)
+  
 The event is supported by
 
 {% include image.html width="1000px" file="images/gnampa.png" %}
