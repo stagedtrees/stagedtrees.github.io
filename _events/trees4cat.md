@@ -10,7 +10,7 @@ location: Genoa
 #### Università degli Studi di Genova, 21-23 October 2024
 #### DIMA - Dipartimento di Matematica
 
-**Links:** [Submissions](https://stagedtrees.github.io/events/2.Submissions.html) - [Program](https://stagedtrees.github.io/events/3.Program.html) - [Info](https://stagedtrees.github.io/events/4.Info.html) - [Participants](https://stagedtrees.github.io/events/5.Participants.html)
+**Links:** [Main](https://stagedtrees.github.io/events/trees4cat.html) - [Submissions](https://stagedtrees.github.io/events/w2.Submissions.html) - [Program](https://stagedtrees.github.io/events/w3.Program.html) - [Info](https://stagedtrees.github.io/events/w4.Info.html) - [Participants](https://stagedtrees.github.io/events/w5.Participants.html)
 {% include image.html width="500px" file="images/geg.png" %}
 
 The **trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
