@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "A new class of generative classifiers based on staged tree models published in Knowledge-Based Systems"
+title:  "Paper published in Knowledge-Based Systems"
 ---
 
 
-Paper published in Knowledge-Based Systems at [https://www.sciencedirect.com/science/article/abs/pii/S0950705123002381](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002381)
+*A new class of generative classifiers based on staged tree models* at [url](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002381)
 
 
 ```
