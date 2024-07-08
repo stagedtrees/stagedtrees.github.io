@@ -113,3 +113,4 @@ The event is supported by
 {% include image.html width="1000px" file="images/gnampa.png" %}
 {% include image.html width="400px" file="images/logo_orizzontale_COLORE.png" %}
 {% include image.html width="600px" file="images/dima_eccellenza.pdf" %}
+{% include image.html width="600px" file="images/eccellenza2327.jpeg" %}

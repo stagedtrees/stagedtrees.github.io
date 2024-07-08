@@ -1,0 +1,62 @@
+---
+layout: default
+title: trees4cat 
+date: 2024-10-21
+location: Genoa
+---
+
+# Trees4cat Workshop
+
+#### Università degli Studi di Genova, 21-23 October 2024
+#### DIMA - Dipartimento di Matematica
+
+{% include image.html width="300px" file="images/geg.png" %}
+
+The **trees4cat Workshop** (Trees for Categorical Data) aims at bringing together researchers working on the analysis of categorical data with complex, asymmetric dependence and sample space structures. This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
+
+Topics related to the workshop include, but are not limited to:
+
+ - contingency tables
+ - staged trees
+ - asymptotic theory 
+ - software implementations
+ - algebraic statistics
+ 
+For further information please contact [the organizing committee](mailto:manuele.leonelli@ie.edu)
+
+### Confirmed Speakers
+
+ - [Eliana Duarte](https://emduart2.github.io)
+ - [Manuele Leonelli](https://manueleleonelli.github.io)
+ - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/)
+ - [Liam Solus](https://people.kth.se/~solus)
+ - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84)
+ - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas)
+
+### Organizing Committee
+
+ - [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/) (University of Warwick)
+
+ - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
+ 
+ - [Monia Lupparelli](https://scholar.google.com/citations?user=acIiN2EAAAAJ&hl=it) (University of Florence)
+ 
+ - [Francesco Porro](https://rubrica.unige.it/personale/UkJAU1lp) (University of Genoa)
+ 
+ - [Fabio Rapallo](https://rubrica.unige.it/personale/UkNHX1lh) (University of Genoa)
+ 
+ - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
+ 
+ - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) (Tesserwell, LLC)
+
+### Links
+
+ - Program
+ - Info
+ 
+The event is supported by
+
+{% include image.html width="1000px" file="images/gnampa.png" %}
+{% include image.html width="400px" file="images/logo_orizzontale_COLORE.png" %}
+{% include image.html width="600px" file="images/dima_eccellenza.pdf" %}
+{% include image.html width="600px" file="images/eccellenza2327.jpeg" %}
