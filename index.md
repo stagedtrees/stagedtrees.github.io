@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Staged Event Tree 
+title: Staged Event Trees 
 weight: 1
 ---
 
