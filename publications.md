@@ -1,6 +1,6 @@
 ---
 layout: default
-title: publications
+title: Publications
 weight: 4
 hide: false
 ---
