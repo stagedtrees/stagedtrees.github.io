@@ -7,8 +7,8 @@ location: Genoa
 
 # Trees4cat Workshop
 
-#### Università degli Studi di Genova, 21-23 October 2024
-#### DIMA - Dipartimento di Matematica
+#### 21-23 October 2024
+#### DIMA - Department of Mathematics, University of Genoa, Italy
 
 **Links:** [Main](https://stagedtrees.github.io/events/trees4cat.html) - [Submissions](https://stagedtrees.github.io/events/w2.Submissions.html) - [Program](https://stagedtrees.github.io/events/w3.Program.html) - [Info](https://stagedtrees.github.io/events/w4.Info.html) - [Participants](https://stagedtrees.github.io/events/w5.Participants.html)
 {% include image.html width="500px" file="images/geg.png" %}
