@@ -29,36 +29,26 @@ For further information please contact [the organizing committee](mailto:manuele
 ### Confirmed Speakers
 
  - [Eliana Duarte](https://emduart2.github.io) (University of Porto)
- 
+  - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84) (University of Aachen)
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
- 
+  - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas) (Eötvös Loránd University)
  - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) (University of Warwick)
- 
  - [Liam Solus](https://people.kth.se/~solus) (KTH University)
- 
- - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84) (University of Aachen)
- 
- - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas) (Eötvös Loránd University)
+
 
 ### Organizing Committee
 
  - [Jane Hutton](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/hutton/) (University of Warwick)
-
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
- 
  - [Monia Lupparelli](https://scholar.google.com/citations?user=acIiN2EAAAAJ&hl=it) (University of Florence)
- 
  - [Francesco Porro](https://rubrica.unige.it/personale/UkJAU1lp) (University of Genoa)
- 
  - [Fabio Rapallo](https://rubrica.unige.it/personale/UkNHX1lh) (University of Genoa)
- 
  - [Eva Riccomagno](https://www.dima.unige.it/~riccomag/) (University of Genoa)
- 
  - [Rachel Wilkerson](http://www.rlwilkerson.com/about/) (Tesserwell, LLC)
  
 **The event is supported by**
 
-{% include image.html width="1000px" file="images/gnampa.png" %}
-{% include image.html width="300px" file="images/logo_orizzontale_COLORE.png" %}
-{% include image.html width="500px" file="images/dima_eccellenza.pdf" %}
-{% include image.html width="250px" file="images/eccellenza2327.jpeg" %}
+{% include image.html width="750px" file="images/gnampa.png" %}
+{% include image.html width="150px" file="images/logo_orizzontale_COLORE.png" %}
+{% include image.html width="250px" file="images/dima_eccellenza.pdf" %}
+{% include image.html width="125px" file="images/eccellenza2327.jpeg" %}
