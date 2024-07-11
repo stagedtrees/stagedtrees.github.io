@@ -14,7 +14,7 @@ location: Genoa
 {% include image.html width="500px" file="images/geg.png" %}
 
 The **trees4cat Workshop** (Trees for Categorical Data) aims at
-strengthen the European network of researchers working on staged trees, chain event graphs, reasoning on asymmetric independence, and models for contingency tables. This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
+strengthening the European network of researchers working on staged trees, chain event graphs, reasoning on asymmetric independence, and models for contingency tables. This meeting builds up on two past meetings on the topic: The *1st UK Conference on Chain Event Graphs* organized in 2019 at the University of Glasgow and the *Conference on Reasoning with Asymmetric and Context-Specific Graphs* organized in 2021 by Baylor University and held online.
 
 Topics related to the workshop include, but are not limited to:
 
