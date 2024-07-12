@@ -49,6 +49,4 @@ For further information please contact [the organizing committee](mailto:manuele
 **The event is supported by**
 
 {% include image.html width="1000px" file="images/gnampa.jpeg" %}
-{% include image.html width="300px" file="images/logo.jpeg" %}
-{% include image.html width="500px" file="images/dima_eccellenza.pdf" %}
-{% include image.html width="250px" file="images/eccellenza2327.jpeg" %}
+{% include image.html width="1000px" file="images/try.jpg" %}
