@@ -35,6 +35,9 @@ For further information please contact [the organizing committee](mailto:manuele
  - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) (University of Warwick)
  - [Liam Solus](https://people.kth.se/~solus) (KTH University)
 
+#### Papers in Algebraic Statistics
+
+Participants are encouraged to submit articles related to the topics of the workshop to the *Algebraic Statistics* journal. Articles will be handled by members of the organizing committee and, if accepted, will appear in a single issue of the journal.
 
 ### Organizing Committee
 
