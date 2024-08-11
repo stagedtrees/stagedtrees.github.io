@@ -29,7 +29,7 @@ For further information please contact [the organizing committee](mailto:manuele
 ### Confirmed Speakers
 
  - [Eliana Duarte](https://emduart2.github.io) (University of Porto)
-  - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84) (University of Aachen)
+  - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84) (RWTH Aachen University)
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
   - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas) (Eötvös Loránd University)
  - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) (University of Warwick)
