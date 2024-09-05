@@ -52,4 +52,8 @@ Participants are encouraged to submit articles related to the topics of the work
 **The event is supported by**
 
 {% include image.html width="1000px" file="images/gnampa.jpeg" %}
-{% include image.html width="1000px" file="images/try.jpg" %}
+{% include image.html width="1000px" file="images/ecc.jpg" %}
+{% include image.html width="1000px" file="images/logo.jpeg" %}
+{% include image.html width="1000px" file="images/eccellenza2327.jpeg" %}
+
+
