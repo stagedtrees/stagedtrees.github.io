@@ -1,6 +1,6 @@
 ---
 layout: news
-title: news
+title: News
 weight: 6
 ---
 
