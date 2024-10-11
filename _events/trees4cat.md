@@ -32,7 +32,6 @@ For further information please contact [the organizing committee](mailto:manuele
   - [Maria Kateri](https://www.isw.rwth-aachen.de/person.php?id=84) (RWTH Aachen University)
  - [Manuele Leonelli](https://manueleleonelli.github.io) (IE University)
   - [Tamás Rudas](https://statisztika.tatk.elte.hu/tanszeki_honlap/Rudas_Tamas) (Eötvös Loránd University)
- - [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) (University of Warwick)
  - [Liam Solus](https://people.kth.se/~solus) (KTH University)
 
 ### Papers in Algebraic Statistics
